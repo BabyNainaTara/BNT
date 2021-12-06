@@ -31,3 +31,28 @@ S.No|Name|Desig
 ----|----|-----
 1|Anne|MST
 2|Bella|TST
+
+~~This was mistaken text~~
+
+1. First list item
+   - First nested list item
+     - Second nested list item
+     
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+Happy Birthday :partying_face:
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+:dart: To do list
+- [x] Groceries :broccoli::avocado::carrot:
+- [x] Shopping :shopping:
+- [x] Maths ch1 :book:
+- [x] Data Structures :notebook:
+- [x] Painting :art:
+- [x] Badminton :badminton:
+
